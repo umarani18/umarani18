@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there, I'm Uma Rani
+# 👋 Hi there, I'm Umarani
 
 ### Machine Learning Enthusiast | Backend Developer
 
@@ -8,8 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=umarani18&color=brightgreen" alt="Profile Views" />
 </div>
 
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="450px" alt="Coding Animation" />
-  
+<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="450px" alt="Girl Coding" />
+
   <p>Building the future, one line of code at a time. 🚀</p>
 </div>
 
@@ -63,24 +63,8 @@
 </div>
 
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
-
-<!--
-**umarani18/umarani18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
