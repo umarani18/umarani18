@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Hello World! I'm Umarani
+---
+### 🧠 Machine Learning Enthusiast || 🛠️ Backend Developer
 
 <!--
 **umarani18/umarani18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
