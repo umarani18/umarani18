@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Umarani
 
-### Machine Learning Enthusiast | Backend Developer
+### Software Developer
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=umarani18&color=brightgreen" alt="Profile Views" />
